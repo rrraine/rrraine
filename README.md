@@ -15,4 +15,11 @@ Hi! I'm Lorraine Quezada, a learner using technology to make everyday life easie
 ---
 [![](https://visitcount.itsvg.in/api?id=rrraine&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 GitHub Contribution Snake
+
+![github contribution snake](dist/github-snake.svg)
+
+![github contribution snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution snake gif](dist/ocean.gif)
+
